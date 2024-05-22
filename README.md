@@ -2,7 +2,9 @@
  
 - 🔭Programming :**Proficient in Python,Java,and C++.**
 
-- 🎓 Education : **Bachelor of Technology in Computer Science Eng and Artificial intelligence,IGDTUW(Expected Graduation: 2026).**
+- 🎓 Education : **Bachelor of Technology in Computer Science Enginerring and Artificial intelligence,Indira Gandhi Delhi Technical University for Women(Expected Graduation: 2026).**
+ 📫 contact: **LINKEDIN:https://www.linkedin.com/in/tanya-rajput-715b55256/
+               GMAIL:tanyarajput1227@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
