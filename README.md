@@ -1,5 +1,6 @@
 <h1 align="center">👨‍💻Tanya rajput |Developer</h1>
-- 🔭Programming : **Proficient in Python,Java,and C++.**
+ 
+- 🔭Programming :**Proficient in Python,Java,and C++.**
 
 - 🎓 Education : **Bachelor of Technology in Computer Science Eng and Artificial intelligence,IGDTUW(Expected Graduation: 2026).**
 
